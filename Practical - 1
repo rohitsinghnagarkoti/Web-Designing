@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Semantic Example</title>
+</head>
+<body>
+
+<header>
+    <h1>My Blog</h1>
+</header>
+
+<section>
+    <article>
+        <h2>First Post</h2>
+        <p>This is my first blog post.</p>
+    </article>
+
+    <article>
+        <h2>Second Post</h2>
+        <p>This is my second blog post.</p>
+    </article>
+</section>
+
+<footer>
+    <p>© 2026 My Blog</p>
+</footer>
+
+</body>
+</html>
