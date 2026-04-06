@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Basic HTML5 Webpage</title>
+</head>
+<body>
+
+<!-- Marquee -->
+<marquee>Welcome to My Webpage 🚀</marquee>
+
+<!-- Header -->
+<header>
+    <h1>My HTML5 Page</h1>
+    <p><b>Bold Text</b>, <i>Italic Text</i>, <u>Underlined Text</u></p>
+</header>
+
+<hr>
+
+<!-- Image -->
+<section>
+    <h2>Image Section</h2>
+    <img src="https://via.placeholder.com/300" alt="Sample Image">
+</section>
+
+<hr>
+
+<!-- Lists -->
+<section>
+    <h2>Lists Example</h2>
+
+    <!-- Ordered List -->
+    <h3>Ordered List</h3>
+    <ol>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ol>
+
+    <!-- Unordered List -->
+    <h3>Unordered List</h3>
+    <ul>
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Mango</li>
+    </ul>
+
+    <!-- Description List -->
+    <h3>Description List</h3>
+    <dl>
+        <dt>HTML</dt>
+        <dd>Used to create webpages</dd>
+
+        <dt>CSS</dt>
+        <dd>Used for styling</dd>
+    </dl>
+</section>
+
+<hr>
+
+<!-- Hyperlinks -->
+<section>
+    <h2>Links Section</h2>
+
+    <!-- External Link -->
+    <p>
+        Visit 
+        <a href="https://www.google.com" target="_blank">Google</a>
+    </p>
+
+    <!-- Internal Link -->
+    <p>
+        Go to <a href="#contact">Contact Section</a>
+    </p>
+
+    <!-- Email Link -->
+    <p>
+        Email me at 
+        <a href="mailto:example@gmail.com">Send Email</a>
+    </p>
+</section>
+
+<hr>
+
+<!-- Contact Section (Internal Target) -->
+<section id="contact">
+    <h2>Contact</h2>
+    <p>This is the contact section.</p>
+</section>
+
+<!-- Footer -->
+<footer>
+    <p>© 2026 My Website</p>
+</footer>
+
+</body>
+</html>
